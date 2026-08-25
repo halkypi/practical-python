@@ -12,14 +12,15 @@
 * [7. A Few Advanced Topics](07_Advanced_Topics/00_Overview.md)
 * [8. Testing, Logging, and Debugging](08_Testing_debugging/00_Overview.md)
 * [9. Packages](09_Packages/00_Overview.md)
+* [10. Streamlit Applications](10_Streamlit/00_Overview.md)
+  * [10.7 Streamlit Skill Material Guide](10_Streamlit/01_Skill_Material_Guide.md)
+  * [10.8 Testing/QE Agent Prompt](10_Streamlit/02_Testing_QE_Agent_Prompt.md)
+* [11. Altair Charts](11_Altair/00_Overview.md)
 
 Please see the [Instructor Notes](InstructorNotes.md) if you plan on
 teaching the course.
 
 [Home](../README.md)
-
-
-
 
 
 

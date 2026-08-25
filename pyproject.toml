@@ -1,0 +1,18 @@
+[project]
+name = "practical-python-streamlit"
+version = "0.1.0"
+description = "Practical Python course materials adapted with Streamlit exercises."
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "altair>=5",
+    "pandas>=1.5",
+    "streamlit>=1.62.0",
+]
+
+[build-system]
+requires = ["setuptools>=64"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools]
+py-modules = []

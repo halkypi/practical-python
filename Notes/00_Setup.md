@@ -13,10 +13,25 @@ peeking at solution code (see below).
 
 ## Setup and Python Installation
 
-You need nothing more than a basic Python 3.6 installation or newer.
+For the core Python course, you need nothing more than a basic Python 3.6 installation or newer.
 There is no dependency on any particular operating system, editor,
 IDE, or extra Python-related tooling.  There are no third-party
 dependencies.
+
+The optional Streamlit section does use a third-party package. If you
+are taking that section, use Python 3.10 or
+newer and install the project dependencies from the top-level directory:
+
+```bash
+python -m pip install -e .
+```
+
+If you use `uv`, you can run the Streamlit app without manually
+activating an environment:
+
+```bash
+uv run streamlit run Work/streamlit_app.py
+```
 
 That said, most of this course involves learning how to write scripts
 and small programs that involve data read from files.  Therefore, you
@@ -87,8 +102,6 @@ most out of the course however, you should try to create your own
 solutions first.
 
 [Contents](Contents.md) \| [Next (1 Introduction to Python)](01_Introduction/00_Overview.md)
-
-
 
 
 

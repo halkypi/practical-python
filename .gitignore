@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Local agent skills
+.agents/skills/developing-with-streamlit
+.claude/skills/developing-with-streamlit
+
+# macOS
+.DS_Store

@@ -46,10 +46,17 @@ able to start writing useful Python programs on their own or be able
 to understand and modify Python code written by their
 coworkers.
 
+This fork also includes an optional Streamlit application section.  It
+uses the same portfolio data and functions from the core exercises, then
+turns them into a small interactive dashboard.
+
 ## Requirements
 
 To complete this course, you need nothing more than a basic
 installation of Python 3.6 or newer and time to work on it.
+
+For the Streamlit section, use Python 3.10 or newer and install the
+project dependencies from `pyproject.toml`.
 
 ## What This Course is Not
 
@@ -145,4 +152,3 @@ add clarification.
 Bug reports are appreciated and may be filed through the
 [issue tracker](https://github.com/dabeaz-course/practical-python/issues).
 Pull requests are not accepted except by invitation. Please file an issue first.
-

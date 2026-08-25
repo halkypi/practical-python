@@ -54,6 +54,13 @@ them look at ways to encapsulate stock data inside an object or making
 a program extensible (e.g., how would make this program produce output
 in 10 different table formats).  You get the idea.
 
+In this fork, Section 10 uses the same stock-market problem domain to
+teach Streamlit.  The Streamlit skill material in `.agents/` and
+`.claude/` is mapped to classroom use in
+[10.7 Streamlit Skill Material Guide](10_Streamlit/01_Skill_Material_Guide.md).
+There is also a reusable testing assistant prompt in
+[10.8 Testing/QE Agent Prompt](10_Streamlit/02_Testing_QE_Agent_Prompt.md).
+
 ## Presentation Guidelines
 
 The presentation slides (notes) are there to provide a narrative
@@ -335,5 +342,4 @@ up the code and give it away to someone.  That's it.  End of the
 course.
 
 [Contents](Contents.md)
-
 
